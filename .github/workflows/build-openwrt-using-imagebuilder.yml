@@ -235,7 +235,7 @@ on:
         options:
           - ophub
           - angel
-          - yourname
+          - kaconk17
 
 env:
   TZ: America/New_York
